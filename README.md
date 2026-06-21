@@ -39,6 +39,7 @@ A solução foi desenvolvida utilizando o método do **Desacoplamento Cinemátic
     pip install numpy matplotlib
 
 3. Abra o arquivo RRR.ipynb em seu ambiente Jupyter local ou faça o upload diretamente no Google Colab.
+   Você também pode acessar o Notebook no [COLAB](https://colab.research.google.com/drive/1y2ndlpNN-p4bFXn6W5tuHEWaOH8fRUyc?usp=sharing)
 
 📈 Resultados obtidos
 
